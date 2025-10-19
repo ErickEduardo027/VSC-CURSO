@@ -1,7 +1,7 @@
 console.log("JEJE");
 
-let num1 = 10;
-let num2 = 20;
+let num1 = 100;
+let num2 = 200;
 
 function suma(a, b) {
     return a + b;
