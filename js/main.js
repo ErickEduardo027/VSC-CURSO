@@ -15,3 +15,6 @@ console.log("La suma es: " + suma(num2, num3));
 
 let nombre = "Erick Eduardo";
 console.log("Hola " + nombre);
+
+let apellido = "Lopez";
+console.log("Hola " + nombre + " " + apellido);
