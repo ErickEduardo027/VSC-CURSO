@@ -9,5 +9,5 @@ function suma(a, b) {
 console.log("La suma es: " + suma(num1, num2));
 
 
-let num3 = 1;
+let num3 = 100;
 console.log("La suma es: " + suma(num2, num3));
