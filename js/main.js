@@ -18,3 +18,6 @@ console.log("Hola " + nombre);
 
 let apellido = "Lopez";
 console.log("Hola " + nombre + " " + apellido);
+
+let bool = true;
+console.log("El valor booleano es: " + bool);
